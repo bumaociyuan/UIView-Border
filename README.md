@@ -5,7 +5,7 @@ usage
 
 ```
 let view = UIView()
-view.borderPosition = [.All]
+view.borderPosition = [.Left,.Bottom]
 // That's all.
 ```
 
